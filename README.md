@@ -1,13 +1,14 @@
 # dda7_capstone
 
-##Smoking Statistics: 2015-2020 (Cigarettes)
+## Smoking Statistics: 2015-2020 (Cigarettes)
 
 ## Table of Contents
 * [Motivation](#motivation)
 * [Data Questions](#data-question)
 * [Technologies](#technologies)
 * [Process](#process)
-* [References/Data Sources](#References/Data Sources)
+* [Link](#link)
+* [References/Data Sources](#references/data-sources)
 
 ## Motivation
   Having worked in the tobacco industry for the past 17 years(on the smokeless side), I have worked long hours. Wanting to see if demands was that high for the long hours. Also the industry now have a lot of restrictions over the years. And now there are many alternatives to smoking (cigarettes).
@@ -33,6 +34,9 @@
 *  Analyze and more Data cleaning - jupyter notebooks
 *  Dashboard - Power BI
 
+## Link
+Link to Power BI Dashboard
+* https://app.powerbi.com/view?r=eyJrIjoiMDcyNmQ2MWItNTkwNy00NDYxLTlkNzktZDhmNzFkNmMyZDZhIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ## References/Data Sources
 *  https://www.americashealthrankings.org/
